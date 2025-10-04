@@ -91,9 +91,15 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eagle.as1@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-eagle.as1@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 

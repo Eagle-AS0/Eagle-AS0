@@ -1,12 +1,11 @@
 <!-- Banner Image or GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="600" alt="Cybersecurity AI GIF">
+  <img src="https://media.giphy.com/media/YOUR_SELECTED_GIF_ID/giphy.gif" width="600" alt="Hacker Coding GIF">
 </p>
 
-<h1 align="center">Eagle-AS0</h1>
+<h1 align="center">🦅 Eagle‑AS0</h1>
 <h3 align="center">🔐 Cybersecurity | 🤖 AI/ML | ⛓️ Blockchain Enthusiast</h3>
 
----
 
 ### 💡 About Me
 

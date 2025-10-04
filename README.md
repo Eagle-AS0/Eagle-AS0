@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/v2/resize%3Afit%3A1280/1%2AMptLjygMO184yyWqmg4PUA.gif" width="600" alt="Hacker Coding GIF">
 </p>
 
-<h1 align="center">🦅 Eagle‑AS0</h1>
+<h1 align="center">Eagle‑AS0</h1>
 <h3 align="center">🔐 Cybersecurity | 🤖 AI/ML | ⛓️ Blockchain Enthusiast</h3>
 
 
@@ -21,16 +21,28 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+  <!-- AI/ML Libraries -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+  <!-- Operating Systems & Tools -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+  <!-- Blockchain & Smart Contracts -->
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVM-5C6BC0?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 </p>
 
----
 
 ### 🚀 Projects
 

@@ -1,6 +1,6 @@
 <!-- Banner Image or GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/YOUR_SELECTED_GIF_ID/giphy.gi](https://miro.medium.com/v2/resize%3Afit%3A1280/1%2AMptLjygMO184yyWqmg4PUA.gif" width="600" alt="Hacker Coding GIF">
+  <img src="https://miro.medium.com/v2/resize%3Afit%3A1280/1%2AMptLjygMO184yyWqmg4PUA.gif" width="600" alt="Hacker Coding GIF">
 </p>
 
 <h1 align="center">🦅 Eagle‑AS0</h1>

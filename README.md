@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Banner Image or GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="600" alt="Cybersecurity AI GIF">
+</p>
+
+<h1 align="center">Eagle-AS0</h1>
+<h3 align="center">🔐 Cybersecurity | 🤖 AI/ML | ⛓️ Blockchain Enthusiast</h3>

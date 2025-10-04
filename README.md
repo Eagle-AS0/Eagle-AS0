@@ -46,30 +46,38 @@
 
 ### 🚀 Projects
 
-#### 🔍 AI-Powered Intrusion Detection
-> Machine learning-based system that detects suspicious network activity using NSL-KDD dataset.
-
+#### 🔍 AI-Powered Intrusion Detection  
+> ML‑based system to detect suspicious network activity using the NSL‑KDD dataset.  
 🔧 **Tech**: Python, Scikit-learn, Pandas  
-📁 [Repository »](https://github.com/Eagle-AS0/AI-Intrusion-Detection) *(create it)*  
-📹 [Demo (Optional)](https://youtu.be/sample-url)
+📁 [Repository »](https://github.com/Eagle-AS0/AI-Intrusion-Detection)  
+📹 [Demo (Optional)](https://youtu.be/sample-url)  
 
 ---
 
-#### 📧 Phishing Email Classifier
-> NLP-based solution that identifies phishing emails from content & headers.
-
+#### 📧 Phishing Email Classifier  
+> NLP model to classify emails as phishing or safe based on content and headers.  
 🧠 **Tech**: Python, NLTK, TensorFlow  
-📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Detector)
+📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Detector)  
 
 ---
 
-#### 🆔 Blockchain Identity System *(Coming Soon)*
-> A secure, decentralized platform for ID verification using Ethereum smart contracts.
-
-⛓️ **Tech**: Solidity, Web3.js, MetaMask  
-📁 [Repository »](https://github.com/Eagle-AS0/Blockchain-ID-System)
+#### ⛓️ DeFi‑Security / BlockDAG  
+> A project focused on **security in DeFi** on BlockDAG architecture, auditing smart contracts & detecting vulnerabilities.  
+🔐 **Tech**: (List what you used: e.g., Solidity, Hardhat, Python, Web3, static analysis tools)  
+📁 [Repository »](https://github.com/Eagle-AS0/DeFi-security-BlockDAG) *(update with your repo link)*  
 
 ---
+
+#### 🔐 AuthChain  
+> A blockchain‑based authentication & ownership tracking system on Web3.  
+🛠 **Tech**: (e.g., Solidity, Web3.js, smart contract development, encryption)  
+📁 [Repository »](https://github.com/Eagle-AS0/AuthChain) *(update with your repo link)*  
+📌 **Note**: AuthChain also has a web frontend demo: [AuthChain Web1.0](https://github.com/AuthChain-Ltd/Web1.0) :contentReference[oaicite:0]{index=0}
+> <p align="center">
+  <img src="https://your-image-link.gif" width="500" alt="Project Demo">
+</p>
+
+
 
 ### 📈 GitHub Stats
 

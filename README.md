@@ -64,7 +64,7 @@
 #### ⛓️ DeFi‑Security / BlockDAG  
 > A project focused on **security in DeFi** on BlockDAG architecture, auditing smart contracts & detecting vulnerabilities.  
 🔐 **Tech**: (List what you used: e.g., Solidity, Hardhat, Python, Web3, static analysis tools)  
-📁 [Repository »](https://github.com/Eagle-AS0/DeFi-security-BlockDAG) *(update with your repo link)*  
+📁 [Repository »](https://github.com/Eagle-AS0/Defi-Security-BlockDAG) *(update with your repo link)*  
 
 ---
 

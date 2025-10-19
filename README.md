@@ -55,9 +55,9 @@
 ---
 
 #### 📧 Phishing Email Classifier  
-> NLP model to classify emails as phishing or safe based on content and headers.  
-🧠 **Tech**: Python, NLTK, TensorFlow  
-📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Detector)  
+> This project builds a phishing email detection system using machine learning techniques. It uses Natural Language Processing (NLP) for text vectorization and Random Forest classifier (or any other ML model) for classification. The goal is to detect whether an email is a phishing email or legitimate based on its content.
+🧠 **Tech**: Python,Scikit-learn,PandasNum,PyFlask,Pickle 
+📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Classifier)  
 
 ---
 

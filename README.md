@@ -6,17 +6,15 @@
 <h1 align="center">Eagle-AS0</h1>
 <h3 align="center">🔐 Cybersecurity | 🌐 Network Security | 🤖 AI/ML | ⛓️ Blockchain Enthusiast</h3>
 
----
-
 ### 💡 About Me
 
 👋 Hi! I'm **Eagle-AS0**, a passionate creator blending **AI**, **Cybersecurity**, **Networking**, and **Blockchain** to build impactful, secure solutions.
 
-- 🌐 Focused on **network security**, **packet analysis**, and **AI-driven intrusion detection systems**  
-- 🎯 Developing **AI-powered network monitoring** and **threat analytics tools**  
-- 🧠 Building **smart contracts** and **secure decentralized apps** for next-gen networks  
+- 🌐 Focused on **network security**, **packet analysis**, and **AI-driven intrusion detection**  
+- 🎯 Developing **network monitoring tools** and **threat analytics platforms**  
+- 🧠 Building **smart contracts**, **secure decentralized apps**, and **network-based security protocols**  
 - 🛡️ Ethical hacker and **CTF enthusiast** specializing in **network-based exploitation and defense**  
-- 🚀 Lifelong learner aiming to **secure and optimize the digital infrastructure** of tomorrow  
+- 🚀 Lifelong learner aiming to **secure and optimize digital infrastructures and networks**  
 
 ---
 
@@ -62,13 +60,14 @@
 ### 🚀 Projects
 
 #### 🔍 AI-Powered Intrusion Detection *(Under Development)*  
-> Researching and developing an AI-based system to detect suspicious network activities using the NSL-KDD dataset. Focused on AI-driven approaches for **real-time intrusion detection**.  
+> Researching and developing an AI-based system to detect suspicious network activities using the NSL-KDD dataset.  
+> Focused on **network traffic analysis** and **real-time intrusion detection**.
 
 ---
 
 #### 📧 Phishing Email Classifier  
-> Builds a phishing email detection system using machine learning techniques. Uses NLP for text vectorization and Random Forest for classification. Detects whether an email is phishing or legitimate.   
-🧠 **Tech**: Python, Scikit-learn, Pandas, NumPy, Flask, Pickle   
+> Builds a phishing email detection system using machine learning techniques. NLP is used for text vectorization and Random Forest (or other ML models) for classification.  
+🧠 **Tech**: Python, Scikit-learn, Pandas, NumPy, Flask, Pickle  
 📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Classifier)  
 
 ---
@@ -76,7 +75,7 @@
 #### ⛓️ DeFi-Security / BlockDAG  
 > A modular, AI-powered security layer for DeFi protocols — detects fraud, guards smart contracts, and protects vaults in real-time.  
 🔐 **Tech**: Solidity, Hardhat, Chainlink, Python (Flask, scikit-learn), Web3.py, React.js, Ethers.js, IPFS, WalletConnect  
-📁 [Repository »](https://github.com/Eagle-AS0/Defi-Security-BlockDAG)   
+📁 [Repository »](https://github.com/Eagle-AS0/Defi-Security-BlockDAG)  
 
 ---
 
@@ -90,8 +89,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight" alt="GitHub stats for Eagle-AS0" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=tokyonight" alt="GitHub streak stats for Eagle-AS0" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=dark&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=39FF14" alt="GitHub stats for Eagle-AS0" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14" alt="GitHub streak stats for Eagle-AS0" width="45%" />
 </p>
 
 ---
@@ -111,7 +110,7 @@
 ---
 
 ### 🤝 Let’s Connect!  
-Whether you want to collaborate, chat about **cybersecurity, networking**, or share cool **blockchain projects** — feel free to reach out!
+Whether you want to collaborate, discuss **network security, AI, or blockchain**, or share cool **cybersecurity projects** — feel free to reach out!
 
 ---
 

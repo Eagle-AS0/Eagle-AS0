@@ -6,14 +6,17 @@
 <h1 align="center">Eagle-AS0</h1>
 <h3 align="center">🔐 Cybersecurity | 🌐 Network Security | 🤖 AI/ML | ⛓️ Blockchain Enthusiast</h3>
 
+---
+
 ### 💡 About Me
 
-👋 Hi! I'm **Eagle-AS0**, a passionate creator blending **AI**, **Cybersecurity**, and **Blockchain** to build impactful, secure solutions.
+👋 Hi! I'm **Eagle-AS0**, a passionate creator blending **AI**, **Cybersecurity**, **Networking**, and **Blockchain** to build impactful, secure solutions.
 
-- 🎯 Focused on AI-driven threat detection & security analytics  
-- 🧠 Developing smart contracts and secure decentralized apps  
-- 🛡️ Ethical hacker and CTF enthusiast  
-- 🚀 Lifelong learner aiming to secure the future with technology
+- 🌐 Focused on **network security**, **packet analysis**, and **AI-driven intrusion detection systems**  
+- 🎯 Developing **AI-powered network monitoring** and **threat analytics tools**  
+- 🧠 Building **smart contracts** and **secure decentralized apps** for next-gen networks  
+- 🛡️ Ethical hacker and **CTF enthusiast** specializing in **network-based exploitation and defense**  
+- 🚀 Lifelong learner aiming to **secure and optimize the digital infrastructure** of tomorrow  
 
 ---
 
@@ -50,6 +53,8 @@
   <img src="https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-3B3B3B?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-FF7F00?style=for-the-badge&logo=pfsense&logoColor=white" />
 </p>
 
 ---
@@ -57,27 +62,26 @@
 ### 🚀 Projects
 
 #### 🔍 AI-Powered Intrusion Detection *(Under Development)*  
-> Currently researching and developing an AI-based system to detect suspicious network activities using the NSL-KDD dataset.  
-> The project is in its early stages and focuses on exploring AI-driven approaches for real-time intrusion detection.
+> Researching and developing an AI-based system to detect suspicious network activities using the NSL-KDD dataset. Focused on AI-driven approaches for **real-time intrusion detection**.  
 
 ---
 
 #### 📧 Phishing Email Classifier  
-> This project builds a phishing email detection system using machine learning techniques. It uses Natural Language Processing (NLP) for text vectorization and Random Forest classifier (or any other ML model) for classification. The goal is to detect whether an email is a phishing email or legitimate based on its content.   
+> Builds a phishing email detection system using machine learning techniques. Uses NLP for text vectorization and Random Forest for classification. Detects whether an email is phishing or legitimate.   
 🧠 **Tech**: Python, Scikit-learn, Pandas, NumPy, Flask, Pickle   
 📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Classifier)  
 
 ---
 
 #### ⛓️ DeFi-Security / BlockDAG  
-> A modular, AI-powered security layer for DeFi protocols — detects fraud, guards smart contracts, and protects vaults in real-time. Built for the BlockDAG Hackathon.  
+> A modular, AI-powered security layer for DeFi protocols — detects fraud, guards smart contracts, and protects vaults in real-time.  
 🔐 **Tech**: Solidity, Hardhat, Chainlink, Python (Flask, scikit-learn), Web3.py, React.js, Ethers.js, IPFS, WalletConnect  
 📁 [Repository »](https://github.com/Eagle-AS0/Defi-Security-BlockDAG)   
 
 ---
 
 #### 🔐 AuthChain  
-> A blockchain-based AI-powered document verification system for secure identity authentication and automated access control.  
+> Blockchain-based AI-powered document verification system for secure identity authentication and automated access control.  
 🛠 **Tech**: Gemini AI API (OCR), NeoX Blockchain, SHA-256, Python (Flask), Tailwind CSS, Bootstrap, JavaScript  
 📁 [Repository »](https://github.com/Eagle-AS0/AuthChain)  
 
@@ -107,7 +111,7 @@
 ---
 
 ### 🤝 Let’s Connect!  
-Whether you want to collaborate, chat about cybersecurity, or share cool blockchain projects — feel free to reach out!
+Whether you want to collaborate, chat about **cybersecurity, networking**, or share cool **blockchain projects** — feel free to reach out!
 
 ---
 

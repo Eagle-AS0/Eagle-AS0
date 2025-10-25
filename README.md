@@ -50,9 +50,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-3B3B3B?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/pfSense-FF7F00?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" /> 
 </p>
 
 ---

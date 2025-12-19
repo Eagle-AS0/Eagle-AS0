@@ -91,10 +91,11 @@
     src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=dark&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=39FF14" 
     width="45%" 
   />
-  <img 
-    src="https://github-readme-streak-stats.vercel.app?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=39FF14" 
-    width="45%" 
-  />
+ <img 
+  src="https://github-readme-streak-stats.vercel.app?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=39FF14" 
+  width="45%" 
+/>
+
 </p>
 
 

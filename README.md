@@ -91,9 +91,10 @@
     width="48%" 
   />
   <img 
-    src="https://streak-stats.demolab.com?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" 
-    width="48%" 
-  />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" 
+  width="48%" 
+/>
+
 </p>
 
 <p align="center">

@@ -85,15 +85,19 @@
 ---
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=dark&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=39FF14" 
     width="48%" 
   />
   <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" 
-  width="48%" 
-/>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" 
+    width="48%" 
+  />
+</p>
+
 
 </p>
 

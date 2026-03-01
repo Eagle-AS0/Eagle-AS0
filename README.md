@@ -57,9 +57,13 @@
 
 ### 🚀 Projects
 
-#### 🔍 AI-Powered Intrusion Detection *(Under Development)*  
-> Researching and developing an AI-based system to detect suspicious network activities using the NSL-KDD dataset.  
-> Focused on **network traffic analysis** and **real-time intrusion detection**.
+#### 🛰️ BlackNode Sentinel  
+> A real-time network monitoring and threat detection system designed to identify suspicious activities across distributed nodes.  
+> Built to enhance **network visibility**, **threat intelligence**, and **proactive defense mechanisms** for modern infrastructures.
+
+🛡️ **Core Focus**: Network traffic inspection, anomaly detection, log analysis, and security event monitoring  
+⚙️ **Purpose**: Strengthening decentralized and enterprise environments against evolving cyber threats  
+📁 [Repository »](https://github.com/Eagle-AS0/BlackNode-Sentinel/)
 
 ---
 

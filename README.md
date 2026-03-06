@@ -87,18 +87,15 @@
 📁 [Repository »](https://github.com/Eagle-AS0/AuthChain)  
 
 ---
-### 📈 GitHub Stats
-
-### 📈 GitHub Stats
-
+📈 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"
+    src="https://github-stats.as93.net/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=ffffff&bg_color=0d1117&count_private=true"
     width="49%"
     alt="Eagle-AS0 GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffc8&text_color=ffffff&bg_color=0d1117&langs_count=8"
+    src="https://github-stats.as93.net/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffc8&text_color=ffffff&bg_color=0d1117&langs_count=8"
     width="42%"
     alt="Top Languages"
   />
@@ -118,17 +115,7 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=dark&hide_border=true&title_color=39FF14&text_color=39FF14" 
-    width="40%" 
-  />
-</p>
-
-
-
 ---
-
 ### 📫 Connect with Me
 
 <p align="center">

@@ -92,17 +92,30 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=dark&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=39FF14" 
-    width="48%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true"
+    width="49%"
+    alt="Eagle-AS0 GitHub Stats"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" 
-    width="48%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffc8&text_color=ffffff&bg_color=0d1117&langs_count=8"
+    width="42%"
+    alt="Top Languages"
   />
 </p>
-
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Eagle-AS0&theme=tokyonight&hide_border=true&ring=00ffc8&fire=ff3cac&currStreakLabel=00ffc8&background=0d1117&stroke=00ffc8&dates=888888"
+    width="60%"
+    alt="GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Eagle-AS0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"
+    width="94%"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <p align="center">

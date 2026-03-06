@@ -88,18 +88,8 @@
 
 ---
 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-stats.as93.net/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=ffffff&bg_color=0d1117&count_private=true"
-    width="49%"
-    alt="Eagle-AS0 GitHub Stats"
-  />
-  <img
-    src="https://github-stats.as93.net/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffc8&text_color=ffffff&bg_color=0d1117&langs_count=8"
-    width="42%"
-    alt="Top Languages"
-  />
-</p>
+
+ 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Eagle-AS0&theme=tokyonight&hide_border=true&ring=00ffc8&fire=ff3cac&currStreakLabel=00ffc8&background=0d1117&stroke=00ffc8&dates=888888"
@@ -108,11 +98,7 @@
   />
 </p>
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Eagle-AS0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"
-    width="94%"
-    alt="GitHub Trophies"
-  />
+ 
 </p>
 
 ---

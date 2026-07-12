@@ -122,7 +122,7 @@ Security-focused engineer building AI-powered protection systems. Specialized in
 
 <p align="center">
   <img
-    src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9"
+    src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Eagle-AS0&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9"
     width="48%"
     alt="Top Languages"
   />

@@ -1,125 +1,134 @@
 <!-- Banner Image or GIF -->
+<!-- Banner Image or GIF -->
 <p align="center">
   <img src="https://miro.medium.com/v2/resize%3Afit%3A1280/1%2AMptLjygMO184yyWqmg4PUA.gif" width="600" alt="Developer coding animated GIF">
 </p>
 
 <h1 align="center">Eagle-AS0</h1>
-<h3 align="center">🔐 Cybersecurity | 🌐 Network Security | 🤖 AI/ML | ⛓️ Blockchain Enthusiast</h3>
+<h3 align="center">Cybersecurity | Network Security | AI/ML | Blockchain</h3>
 
-### 💡 About Me
+<p align="center">
+  <a href="https://github.com/Eagle-AS0/BlackNode-Sentinel">
+    <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Remote-ff69b4?style=for-the-badge&logo=remotework&logoColor=white" alt="Remote" />
+</p>
 
-👋 Hi! I'm **Eagle-AS0**, a passionate creator blending **AI**, **Cybersecurity**, **Networking**, and **Blockchain** to build impactful, secure solutions.
+### About Me
 
-- 🌐 Focused on **network security**, **packet analysis**, and **AI-driven intrusion detection**  
-- 🎯 Developing **network monitoring tools** and **threat analytics platforms**  
-- 🧠 Building **smart contracts**, **secure decentralized apps**, and **network-based security protocols**  
-- 🛡️ Ethical hacker and **CTF enthusiast** specializing in **network-based exploitation and defense**  
-- 🚀 Lifelong learner aiming to **secure and optimize digital infrastructures and networks**  
+Hi! I'm **Eagle-AS0**, a security-focused developer building AI-powered protection systems. I specialize in Runtime Application Self-Protection (RASP), threat detection, and secure infrastructure.
+
+- Building **BlackNode Sentinel** — an open-source RASP platform that monitors web apps in real-time
+- Experienced with **network security**, **packet analysis**, and **AI-driven intrusion detection**
+- Developing **smart contracts**, **secure dApps**, and **blockchain-based verification systems**
+- Ethical hacker and **CTF enthusiast** specializing in exploitation and defense
+- Always learning, always shipping
+
+### What I'm Looking For
+
+- **Remote security engineering roles** (AppSec, DevSecOps, Security Research)
+- **Open source collaboration** on security tools and infrastructure
+- **Bug bounty programs** — active on HackerOne and Bugcrowd
+- **Freelance security consulting** for startups and enterprises
 
 ---
 
-### 🛠️ My Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <br><br>
   
-  <!-- AI/ML Libraries -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <br><br>
-  
-  <!-- Operating Systems & Tools -->
+  <!-- Security & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <br><br>
   
-  <!-- Blockchain & Smart Contracts -->
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/EVM-5C6BC0?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <!-- Security Tools -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white" />
   <br><br>
 
-  <!-- Network & Security Tools -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-3B3B3B?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" /> 
+  <!-- Blockchain -->
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projects
+### Featured Projects
 
-#### 🛰️ BlackNode Sentinel  
-> A real-time network monitoring and threat detection system designed to identify suspicious activities across distributed nodes.  
-> Built to enhance **network visibility**, **threat intelligence**, and **proactive defense mechanisms** for modern infrastructures.
+#### BlackNode Sentinel
+> AI-powered Runtime Application Self-Protection (RASP) platform. Monitors web apps in real-time, detects attacks, and provides a security dashboard.
 
-🛡️ **Core Focus**: Network traffic inspection, anomaly detection, log analysis, and security event monitoring  
-⚙️ **Purpose**: Strengthening decentralized and enterprise environments against evolving cyber threats  
-📁 [Repository »](https://github.com/Eagle-AS0/BlackNode-Sentinel/)
+- Real-time threat detection (SQLi, XSS, DDoS, brute force, command injection)
+- ML-based anomaly detection and risk scoring
+- Agent middleware for Express/Node.js apps
+- [Repository](https://github.com/Eagle-AS0/BlackNode-Sentinel/)
 
----
+#### Defi-Security-BlockDAG
+> Modular, AI-powered security layer for DeFi protocols. Detects fraud, guards smart contracts, and protects vaults in real-time.
 
-#### 📧 Phishing Email Classifier  
-> Builds a phishing email detection system using machine learning techniques. NLP is used for text vectorization and Random Forest (or other ML models) for classification.  
-🧠 **Tech**: Python, Scikit-learn, Pandas, NumPy, Flask, Pickle  
-📁 [Repository »](https://github.com/Eagle-AS0/Phishing-Email-Classifier)  
+- Built for BlockDAG Hackathon
+- AI anomaly detection + on-chain guardrails
+- [Repository](https://github.com/Eagle-AS0/Defi-Security-BlockDAG)
 
----
+#### Phishing Email Classifier
+> ML-based phishing email detection using NLP and Random Forest classification.
 
-#### ⛓️ DeFi-Security / BlockDAG  
-> A modular, AI-powered security layer for DeFi protocols — detects fraud, guards smart contracts, and protects vaults in real-time.  
-🔐 **Tech**: Solidity, Hardhat, Chainlink, Python (Flask, scikit-learn), Web3.py, React.js, Ethers.js, IPFS, WalletConnect  
-📁 [Repository »](https://github.com/Eagle-AS0/Defi-Security-BlockDAG)  
+- Python, Scikit-learn, Flask
+- [Repository](https://github.com/Eagle-AS0/Phishing-Email-Classifier)
 
----
+#### AuthChain
+> Blockchain-based AI-powered document verification for secure identity authentication.
 
-#### 🔐 AuthChain  
-> Blockchain-based AI-powered document verification system for secure identity authentication and automated access control.  
-🛠 **Tech**: Gemini AI API (OCR), NeoX Blockchain, SHA-256, Python (Flask), Tailwind CSS, Bootstrap, JavaScript  
-📁 [Repository »](https://github.com/Eagle-AS0/AuthChain)  
+- Gemini AI OCR + NeoX Blockchain + SHA-256
+- [Repository](https://github.com/Eagle-AS0/AuthChain)
 
 ---
-📈 GitHub Stats
 
- 
+### GitHub Activity
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Eagle-AS0&theme=tokyonight&hide_border=true&ring=00ffc8&fire=ff3cac&currStreakLabel=00ffc8&background=0d1117&stroke=00ffc8&dates=888888"
-    width="60%"
+    src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9"
+    width="45%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffc8&dates=888888"
+    width="45%"
     alt="GitHub Streak"
   />
 </p>
+
+---
+
+### Connect
+
 <p align="center">
- 
+  <a href="mailto:eagle.as1@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-eagle.as1@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Eagle-AS0">
+    <img src="https://img.shields.io/badge/GitHub-Eagle-AS0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
-### 📫 Connect with Me
 
-<p align="center">
-  <a href="mailto:eagle.as1@protonmail.com" aria-label="Email">
-    <img src="https://img.shields.io/badge/Email-eagle.as1@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email badge" />
-  </a>
-  
-  <a href="https://linkedin.com/in/your-linkedin" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-</p>
-
----
-
-### 🤝 Let’s Connect!  
-Whether you want to collaborate, discuss **network security, AI, or blockchain**, or share cool **cybersecurity projects** — feel free to reach out!
-
----
-
+> *"Build what scares you. Break what challenges you. Learn what empowers you."*
+> — Eagle-AS0
 > 🧠 _"Build what scares you. Break what challenges you. Learn what empowers you."_  
 > — Eagle-AS0

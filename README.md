@@ -105,31 +105,31 @@ Security-focused engineer building AI-powered protection systems. Specialized in
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Eagle-AS0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffc8&dates=888888"
-    width="48%"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/Eagle-AS0">
+    <img src="https://img.shields.io/badge/Repos-6-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffc8" alt="Repos" />
+  </a>
+  <a href="https://github.com/Eagle-AS0?tab=repositories&sort=stars">
+    <img src="https://img.shields.io/github/stars/Eagle-AS0?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffc8" alt="Stars" />
+  </a>
+  <a href="https://github.com/Eagle-AS0">
+    <img src="https://img.shields.io/github/followers/Eagle-AS0?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffc8" alt="Followers" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Eagle-AS0?style=for-the-badge&theme=tokyonight" alt="Top Language" />
+  <img src="https://img.shields.io/github/last-commit/Eagle-AS0?style=for-the-badge&theme=tokyonight" alt="Last Commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/Eagle-AS0?style=for-the-badge&theme=tokyonight" alt="Commit Activity" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Eagle-AS0&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9"
-    width="48%"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&include_all_commits=true&count_private=true"
-    width="48%"
-    alt="Detailed Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffc8&dates=888888"
+    width="70%"
+    alt="GitHub Streak"
   />
 </p>
 

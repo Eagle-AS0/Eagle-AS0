@@ -109,12 +109,12 @@ Security-focused engineer building AI-powered protection systems. Specialized in
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9"
+    src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9"
     width="48%"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffc8&dates=888888"
+    src="https://streak-stats.demolab.com?user=Eagle-AS0&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffc8&dates=888888"
     width="48%"
     alt="GitHub Streak"
   />
@@ -122,14 +122,14 @@ Security-focused engineer building AI-powered protection systems. Specialized in
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9"
+    src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9"
     width="48%"
     alt="Top Languages"
   />
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Eagle-AS0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"
+    src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&include_all_commits=true&count_private=true"
     width="48%"
-    alt="GitHub Trophies"
+    alt="Detailed Stats"
   />
 </p>
 

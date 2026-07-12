@@ -108,21 +108,12 @@ Security-focused engineer building AI-powered protection systems. Specialized in
 ### GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Eagle-AS0">
+  <a href="https://github.com/Eagle-AS0?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-6-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffc8" alt="Repos" />
   </a>
   <a href="https://github.com/Eagle-AS0?tab=repositories&sort=stars">
     <img src="https://img.shields.io/github/stars/Eagle-AS0?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffc8" alt="Stars" />
   </a>
-  <a href="https://github.com/Eagle-AS0">
-    <img src="https://img.shields.io/github/followers/Eagle-AS0?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffc8" alt="Followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Eagle-AS0?style=for-the-badge&theme=tokyonight" alt="Top Language" />
-  <img src="https://img.shields.io/github/last-commit/Eagle-AS0?style=for-the-badge&theme=tokyonight" alt="Last Commit" />
-  <img src="https://img.shields.io/github/commit-activity/y/Eagle-AS0?style=for-the-badge&theme=tokyonight" alt="Commit Activity" />
 </p>
 
 <p align="center">

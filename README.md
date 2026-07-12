@@ -429,12 +429,31 @@ Blockchain Threat Intelligence
 
 ---
 
-# Achievements
+# Achievements & GitHub Metrics
 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Eagle-AS0&theme=darkhub&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Eagle-AS0&theme=darkhub&no-frame=true&row=1&column=6"/>
+
+</p>
+
+
+<p align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 

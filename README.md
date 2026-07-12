@@ -3,27 +3,67 @@
 </p>
 
 <h1 align="center">Eagle-AS0</h1>
-<h3 align="center">Cybersecurity Engineer — RASP · Threat Detection · AI Security · Blockchain</h3>
+<h3 align="center">Cybersecurity · AI/ML · Blockchain · Network Security</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Remote-ff69b4?style=for-the-badge&logo=remotework&logoColor=white" alt="Remote" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=shield-check&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/AI_ML-9C27B0?style=for-the-badge&logo=brain&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Network_Security-1565C0?style=for-the-badge&logo=network-wired&logoColor=white" alt="Network Security" />
 </p>
 
 ---
 
 ### About
 
-Security-focused engineer building AI-powered protection systems. Specialized in Runtime Application Self-Protection (RASP), real-time threat detection, and secure infrastructure. I turn security research into production-grade tools.
+I build security systems that protect applications at runtime. My work spans real-time threat detection, AI-powered anomaly analysis, and blockchain-based verification. I turn complex security research into production tools.
 
-**Core competencies:**
-- Real-time attack detection (SQLi, XSS, DDoS, command injection, brute force)
-- ML-based anomaly detection and behavioral analysis
-- Smart contract security, DeFi exploit prevention, blockchain verification
-- Network traffic analysis, packet inspection, intrusion detection
-- Full-stack security tooling (Node.js, React, Python, MongoDB)
+---
 
-**Looking for:** Remote security engineering roles (AppSec, DevSecOps, Security Research) and open source collaboration on security tools.
+### Skills
+
+<p align="center">
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/RASP-FF6F00?style=for-the-badge&logo=shield-check&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat_Detection-FF6F00?style=for-the-badge&logo=eye&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-FF6F00?style=for-the-badge&logo=bug&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident_Response-FF6F00?style=for-the-badge&logo=exclamation-triangle&logoColor=white" />
+  <br><br>
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/Anomaly_Detection-9C27B0?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge&logo=chart-bar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-9C27B0?style=for-the-badge&logo=line-chart&logoColor=white" />
+  <br><br>
+  <!-- Blockchain -->
+  <img src="https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeFi_Security-3C3C3D?style=for-the-badge&logo=link&logoColor=white" />
+  <img src="https://img.shields.io/badge/On_Chain_Analysis-3C3C3D?style=for-the-badge&logo=search-dollar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Token_Verification-3C3C3D?style=for-the-badge&logo=check-double&logoColor=white" />
+  <br><br>
+  <!-- Network -->
+  <img src="https://img.shields.io/badge/Packet_Analysis-1565C0?style=for-the-badge&logo=network-wired&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDS_IPS-1565C0?style=for-the-badge&logo=bell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traffic_Monitoring-1565C0?style=for-the-badge&logo=chart-line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall_Config-1565C0?style=for-the-badge&logo=lock&logoColor=white" />
+  <br><br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=bug&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -79,33 +119,7 @@ Security-focused engineer building AI-powered protection systems. Specialized in
 
 ---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004D7F?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
----
-
-### GitHub Activity
+### GitHub
 
 <p align="center">
   <a href="https://github.com/Eagle-AS0?tab=repositories">

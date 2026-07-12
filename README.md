@@ -1,157 +1,142 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1280/1*MptLjygMO184yyWqmg4PUA.gif" width="720" alt="Coding Animation">
+  <img src="https://miro.medium.com/v2/resize:fit:1280/1*MptLjygMO184yyWqmg4PUA.gif" width="800"/>
 </p>
 
 <h1 align="center">Eagle-AS0</h1>
 
 <p align="center">
-Cybersecurity Engineer • AI/ML Developer • Blockchain Security
+Cybersecurity Engineer • AI/ML Developer • Blockchain Security Researcher
 </p>
 
 <p align="center">
-Building secure systems powered by artificial intelligence.
+Building intelligent security platforms for the next generation of applications.
 </p>
+## Core Expertise
 
----
+<table>
+<tr>
+<td width="50%">
 
-## About
-
-I build intelligent security platforms that combine cybersecurity, artificial intelligence, and blockchain technologies.
-
-My work focuses on designing production-ready security software capable of detecting threats, protecting applications at runtime, and improving trust through decentralized systems.
-
-### Focus Areas
+### Security Engineering
 
 - Runtime Application Self Protection (RASP)
-- AI-Based Threat Detection
-- Security Automation
-- Blockchain Security
-- Backend Engineering
-- Network Security
+- Web Application Security
+- Threat Detection
+- Secure Backend Development
+- Network Defense
+- Vulnerability Assessment
+
+</td>
+
+<td width="50%">
+
+### Artificial Intelligence
+
 - Machine Learning
+- Anomaly Detection
+- NLP
+- Threat Intelligence
+- Predictive Security
+- AI Automation
 
----
+</td>
+</tr>
 
-## Tech Stack
+<tr>
+<td>
+
+### Blockchain
+
+- Smart Contract Security
+- DeFi Security
+- On-chain Verification
+- Token Authentication
+- Solidity Development
+
+</td>
+
+<td>
+
+### Software Engineering
+
+- REST APIs
+- Microservices
+- Docker
+- CI/CD
+- Database Design
+- Linux Infrastructure
+
+</td>
+</tr>
+</table>
+<h2 align="center">Tech Arsenal</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,mongodb,docker,linux,git,github,solidity,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,mongodb,postgres,docker,kubernetes,linux,bash,git,github,solidity,vscode&theme=dark"/>
 
 </p>
 
----
+<h2 align="center">Security Toolkit</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-004E7A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</p>
 
 ## Featured Projects
 
-### BlackNode Sentinel
-
-AI-powered Runtime Application Self Protection platform.
-
-- Runtime attack detection
-- AI anomaly analysis
-- Threat intelligence dashboard
-- Real-time monitoring
-
-**Stack**
-
-`Node.js` • `React` • `MongoDB` • `Docker`
-
-Repository
-
-https://github.com/Eagle-AS0/BlackNode-Sentinel
-
----
-
-### DeFi Security BlockDAG
-
-AI-assisted security framework for decentralized finance.
-
-- Smart contract monitoring
-- Flash loan detection
-- Fraud detection
-- Blockchain verification
-
-**Stack**
-
-`Solidity` • `JavaScript` • `Ethereum`
-
-Repository
-
-https://github.com/Eagle-AS0/Defi-Security-BlockDAG
-
----
-
-### AuthChain
-
-Blockchain-based academic certificate verification.
-
-**Stack**
-
-`Python` • `Solidity`
-
-Repository
-
-https://github.com/Eagle-AS0/AuthChain
-
----
-
-### Phishing Email Classifier
-
-Machine Learning phishing detection system.
-
-**Stack**
-
-`Python` • `Flask` • `Scikit-Learn`
-
-Repository
-
-https://github.com/Eagle-AS0/Phishing-Email-Classifier
-
----
-
-## GitHub Statistics
+| Project | Description |
+|---------|-------------|
+| **BlackNode Sentinel** | AI-powered Runtime Application Self Protection platform with real-time attack detection. |
+| **DeFi Security BlockDAG** | AI security framework for decentralized finance. |
+| **AuthChain** | Blockchain-based certificate verification platform. |
+| **Phishing Email Classifier** | NLP-powered phishing detection using Machine Learning. |
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eagle-AS0&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eagle-AS0&theme=github-dark-blue&hide_border=true"/>
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eagle-AS0&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eagle-AS0&theme=github-dark&hide_border=true"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Eagle-AS0&theme=github-dark-blue&hide_border=true"/>
 
 </p>
-
----
-
-## Contact
 
 <p align="center">
 
 <a href="mailto:eagle.as1@protonmail.com">
-<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
+<img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Eagle-AS0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
-
----
-
 <p align="center">
 
-<i>Secure by Design • Intelligent by Default</i>
+<i>Building secure systems with AI-driven intelligence.</i>
 
 </p>

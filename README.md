@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-🦅 Eagle-AS0
+Eagle-AS0
 </h1>
 
 <h3 align="center">
@@ -16,20 +16,18 @@ Designing intelligent security systems for modern applications.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-Expertise-red?style=for-the-badge&logo=hackthebox"/>
-<img src="https://img.shields.io/badge/AI-Security-blue?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Blockchain-Security-purple?style=for-the-badge&logo=ethereum"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Security%20Engineering-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Security-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain-Security-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Eagle-AS0?style=for-the-badge&logo=github"/>
 
 </p>
 
-
 ---
 
-# 🧠 About Me
+# About Me
 
-
-I build security-focused software combining:
+I build security-focused systems combining:
 
 - Artificial Intelligence
 - Cyber Defense
@@ -37,38 +35,34 @@ I build security-focused software combining:
 - Blockchain Security
 - Secure Backend Engineering
 
+My focus is developing intelligent platforms that can detect, analyze, and respond to modern cyber threats.
 
-My mission:
-
-> Building autonomous security platforms capable of detecting, analyzing, and responding to cyber threats.
-
-
-## Current Research Focus
+## Research Areas
 
 ```
-🛡 Runtime Application Self Protection (RASP)
+Runtime Application Self Protection (RASP)
 
-🤖 AI-powered Threat Detection
+AI-powered Threat Detection
 
-🔐 Application Security
+Application Security
 
-⛓ Blockchain Security
+Blockchain Security
 
-🧬 Machine Learning Security
+Machine Learning Security
 
-🌐 Threat Intelligence
+Threat Intelligence
 
-⚙ Security Automation
+Security Automation
 
-☁ Secure Cloud Architecture
+Cloud Security Architecture
 ```
 
 ---
 
-# ⚔️ Security Engineering Stack
+# Technology Stack
 
 
-## Programming Languages
+## Programming
 
 <p align="center">
 
@@ -77,7 +71,7 @@ My mission:
 </p>
 
 
-## Infrastructure & Tools
+## Infrastructure
 
 
 <p align="center">
@@ -87,7 +81,7 @@ My mission:
 </p>
 
 
-## Security Arsenal
+## Security Skills
 
 ```
 Application Security
@@ -117,51 +111,48 @@ Backend Engineering
 
 ---
 
-# 🚀 Featured Security Projects
+# Featured Projects
 
 
-# 🛡 BlackNode Sentinel
+## BlackNode Sentinel
 
 ### AI Powered Runtime Application Self Protection Platform
 
 
+Architecture:
+
 ```
-                Application
+Application
 
-                    |
+    |
 
-            Security Middleware
+Security Middleware
 
-                    |
+    |
 
-            AI Threat Engine
+AI Threat Detection Engine
 
-                    |
+    |
 
-        Threat Intelligence System
+Threat Intelligence Layer
 
-                    |
+    |
 
-          Automated Response Layer
+Automated Response System
 ```
 
 
-## Capabilities
+Capabilities:
 
-✅ Runtime attack detection
-
-✅ Behavioral anomaly analysis
-
-✅ API security monitoring
-
-✅ Threat intelligence integration
-
-✅ Security analytics dashboard
-
-✅ Automated mitigation
+- Runtime attack detection
+- Behavioral anomaly analysis
+- API security monitoring
+- Threat intelligence integration
+- Security analytics dashboard
+- Automated mitigation
 
 
-### Technology
+Technology:
 
 ```
 Node.js
@@ -181,38 +172,35 @@ https://github.com/Eagle-AS0/BlackNode-Sentinel
 
 ---
 
-# ⛓ DeFi Security BlockDAG
-
+## DeFi Security BlockDAG
 
 ### AI Based Decentralized Finance Security Framework
 
 
 Architecture:
 
-
 ```
 Smart Contract
 
-       |
+      |
 
 Transaction Monitor
 
-       |
+      |
 
-AI Fraud Detector
+AI Fraud Detection
 
-       |
+      |
 
 Risk Analysis Engine
 
-       |
+      |
 
 Blockchain Verification
 ```
 
 
 Features:
-
 
 - Flash loan detection
 - Smart contract monitoring
@@ -221,7 +209,7 @@ Features:
 - On-chain verification
 
 
-Stack:
+Technology:
 
 ```
 Solidity
@@ -239,53 +227,51 @@ https://github.com/Eagle-AS0/Defi-Security-BlockDAG
 
 ---
 
-# 🔐 AuthChain
-
+## AuthChain
 
 ### Blockchain Certificate Verification Platform
 
 
 Workflow:
 
-
 ```
 Document Upload
 
-        |
+      |
 
 AI OCR Extraction
 
-        |
+      |
 
-SHA-256 Hash Creation
+SHA-256 Hash Generation
 
-        |
+      |
 
 Blockchain Storage
 
-        |
+      |
 
-Secure Verification
+Verification Network
 ```
 
 
 Features:
 
-- Gemini AI OCR
+- AI OCR processing
 - Cryptographic verification
 - Blockchain storage
 - Secure validation
 
 
-Stack:
+Technology:
 
 ```
 Python
 Solidity
 HTML
 Blockchain
-AI
 Cryptography
+AI
 ```
 
 
@@ -296,14 +282,12 @@ https://github.com/Eagle-AS0/AuthChain
 
 ---
 
-# 📧 Phishing Email Classifier
-
+## Phishing Email Classifier
 
 ### Machine Learning Threat Detection System
 
 
 Pipeline:
-
 
 ```
 Email Input
@@ -318,17 +302,17 @@ Feature Extraction
 
       |
 
-Machine Learning Model
+ML Classification
 
       |
 
-Threat Classification
+Threat Prediction
 ```
 
 
 Features:
 
-- NLP based detection
+- NLP based phishing detection
 - Email classification
 - Threat prediction
 - REST API
@@ -352,22 +336,22 @@ https://github.com/Eagle-AS0/Phishing-Email-Classifier
 
 ---
 
-# 🧬 Security Research Laboratory
+# Security Research
 
 
-| Area | Focus |
+| Domain | Focus |
 |-|-|
-| AI Security | Intelligent attack detection |
-| App Security | Runtime protection systems |
+| AI Security | Intelligent threat detection |
+| Application Security | Runtime protection |
 | Blockchain | Smart contract defense |
 | Threat Intelligence | Attack analysis |
-| ML Security | Detection models |
-| Backend | Secure scalable systems |
+| Machine Learning | Security models |
+| Backend Engineering | Secure systems |
 
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Analytics
 
 
 <p align="center">
@@ -389,16 +373,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle-AS0&la
 </p>
 
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eagle-AS0&theme=github-dark&hide_border=true"/>
-
-</p>
-
-
 ---
 
-# 🏆 Engineering Roadmap
+# Current Focus
 
 
 ```
@@ -430,29 +407,29 @@ Cloud Security
 
 ---
 
-# 🔬 Currently Exploring
+# Exploring
 
 
 ```
-→ Large Language Model Security
+Large Language Model Security
 
-→ AI Red Teaming
+AI Red Teaming
 
-→ Autonomous SOC Agents
+Autonomous Security Agents
 
-→ Zero Trust Architecture
+Zero Trust Architecture
 
-→ Malware Behavior Analysis
+Malware Behavior Analysis
 
-→ Secure Distributed Systems
+Secure Distributed Systems
 
-→ Blockchain Threat Intelligence
+Blockchain Threat Intelligence
 ```
 
 
 ---
 
-# 📈 Contribution Metrics
+# Achievements
 
 
 <p align="center">
@@ -464,25 +441,19 @@ Cloud Security
 
 ---
 
-# 📫 Contact
+# Contact
 
 
 <p align="center">
 
-
 <a href="mailto:eagle.as1@protonmail.com">
-
 <img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
-
 </a>
 
 
 <a href="https://github.com/Eagle-AS0">
-
 <img src="https://img.shields.io/badge/GitHub-Eagle--AS0-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 
 </p>
 
@@ -498,7 +469,7 @@ Cloud Security
 
 <p align="center">
 
-# 🦅 Secure By Design  
-# 🤖 Intelligent By Default
+Secure By Design  
+Intelligent By Default
 
 </p>
